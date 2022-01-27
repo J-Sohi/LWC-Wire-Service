@@ -1,0 +1,20 @@
+[
+	{
+	  "Id": "0065f000005TdZpAAK",
+	  "Name": "Edge Communications",
+	  "StageName":"Closed Won",
+	  "CloseDate":"2019-09-23"
+	},
+	{
+	  "Id": "0065f000005TdZaAAK",
+	  "Name": "United Oil & Gas Corporation",
+	  "StageName":"Closed Won",
+	  "CloseDate":"2019-09-23"
+	},
+	{
+	  "Id": "0065f000005TdZhAAK",
+	  "Name": "Express Logistics and Transport",
+	  "StageName":"Closed Won",
+	  "CloseDate":"2019-09-23"
+	}
+  ]
